@@ -2,6 +2,14 @@ package Phase1.p7JackFinal2;
 
 //Name: Ahmad Mustafa
 //Scope: Store and display weekly workouts.
+// Main problem we're trying to solve for the client is inconsistency.
+// We track workouts to keep the client accountable.
+// if they miss any workouts, they will know that they are missing workouts and need to change.
+// Alternatively, we can have these 6 workouts stored as objects.
+// All these objects can have attributes Such as
+// int totalWorkouts = 4 in a week
+// int workoutsCompleted = input.next;
+// week1() get workout1
 
 import java.util.Scanner;
 public class Main {
@@ -12,8 +20,8 @@ public class Main {
         for (int i = 0; i < month1.length; i++) {
             System.out.println("--- Week " + c1 + ":  ---");
             c1++;
+            int c2=1;
             for (int j = 0; j < month1[i].length; j++) {//workout
-                int c2=1;
                 System.out.println("Workout " + c2 + ": "+ month1[i][j]);
                 c2++;
                 if(month1[i][j] == true) {
