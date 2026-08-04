@@ -6,4 +6,14 @@ In the next iteration, you will have the ability to choose your Daily water inta
 
 Just As Practice, I will push this once more. Let's hope to learn this asap
 
+Overall there are 3 commands.
+
+git add .
+git commit -m "any comment"
+git push origin main
+
+These 3 commands will push anything to the main repo.
+
+Let's try once more
+
 
