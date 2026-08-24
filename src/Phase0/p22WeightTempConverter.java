@@ -128,7 +128,6 @@ public class p22WeightTempConverter {
                     //Check compareTo method
 
 
-
                     if (c.equals("T")) { // == operator does not work with strings. Have to use .equals method which is a boolean.
                         tempChoice();
                     } else if (c.equals("t")) {
