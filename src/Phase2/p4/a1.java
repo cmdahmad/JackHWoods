@@ -12,6 +12,7 @@ public class a1 {
         System.out.println();
         System.out.println("The author suggests this would take a lot more time and work than you 'can fathom'");
         System.out.println("2) Write down your goal, find accountability (meetup.com)");
+        System.out.println("I want to build a startup which earns $500 in income.");
     }
     public static void main(String[] args) {
         driver();
