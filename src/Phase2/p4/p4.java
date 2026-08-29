@@ -34,7 +34,7 @@ package Phase2.p4;
 // Another good resource to generate ideas is to read Russell Brunson's book (Expert secrets)
 // Another good resource is to ask chatgpt for a good book on finding ideas
 // ** One key component is Dua (Star this) (Dua is manifestation, it will come true)
-// Idea: Read Start small stay small and start implementing daily.
+// Idea: Read Start small stay small and start implementing daily. (For 25mins.)
 //
 // .
 // .
