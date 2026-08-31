@@ -13,6 +13,21 @@ public class a1 {
         System.out.println("The author suggests this would take a lot more time and work than you 'can fathom'");
         System.out.println("2) Write down your goal, find accountability (meetup.com)");
         System.out.println("I want to build a startup which earns $500 in income.");
+        System.out.println("There's 2 more ways to make money.");
+        System.out.println("One is tutoring. One is making a software. Tutoring requires being extra good at subjects");
+        System.out.println("Tutoring helps us understand the field immensely more." +
+                "Tutoring also teaches us how to teach, which is important for a paid community later on.");
+
+        // day 3
+        System.out.println("\nDay 3: \na" +
+                "Finding who you want to serve is easy.\n" +
+                "Don't find broke people (like students)\n" +
+                "Find people who have the buying power and the decision making ability\n" +
+                "Find someone you have mercy for in your heart \n" +
+                "Get close to them, Find out about their deep depth problems \n" +
+                "Based on those deep depth problems, make a solution and find out if the problem is urgent and painful" +
+                " enough to solve it." +
+                "\nThen solve it.");
     }
     public static void main(String[] args) {
         driver();
